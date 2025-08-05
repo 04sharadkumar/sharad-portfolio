@@ -27,14 +27,7 @@ const Projects = () => {
     codeUrl: '', 
     liveUrl: ''
   },
-  {
-  title: 'My Portfolio',
-  description: 'A fully responsive portfolio website built with Next.js and Tailwind CSS to showcase my skills, projects, achievements, and contact information. Deployed using Vercel.',
-  image: '/image3.png',
-  technologies: ['Next.js', 'Tailwind CSS', 'TypeScript'],
-  codeUrl: 'https://github.com/04sharadkumar/sharad-portfolio',
-  liveUrl: 'https://sharad-portfolio-seven.vercel.app/'
-}
+  
 
   
 
