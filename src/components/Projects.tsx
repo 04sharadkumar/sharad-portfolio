@@ -24,9 +24,20 @@ const Projects = () => {
     description: 'Currently building a full-stack e-commerce platform for clothing with product filtering, cart, and admin panel',
     image: '/image2.png',
     technologies: ['React', 'Tailwind CSS', 'Node.js', 'MongoDB'],
-    codeUrl: '', // optional until ready
+    codeUrl: '', 
     liveUrl: ''
-  }
+  },
+  {
+  title: 'My Portfolio',
+  description: 'A fully responsive portfolio website built with Next.js and Tailwind CSS to showcase my skills, projects, achievements, and contact information. Deployed using Vercel.',
+  image: '/image3.png',
+  technologies: ['Next.js', 'Tailwind CSS', 'TypeScript'],
+  codeUrl: 'https://github.com/04sharadkumar/sharad-portfolio',
+  liveUrl: 'https://sharad-portfolio-seven.vercel.app/'
+}
+
+  
+
 
     
    
