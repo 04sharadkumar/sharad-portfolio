@@ -20,12 +20,12 @@ const Projects = () => {
       liveUrl: 'https://nexus-frontend-gamma.vercel.app/'
     },
      {
-    title: 'TM Ecommerce Website (In Progress)',
+    title: 'Bachat Bazzar Website (In Progress)',
     description: 'Currently building a full-stack e-commerce platform for clothing with product filtering, cart, and admin panel',
     image: '/image2.png',
     technologies: ['React', 'Tailwind CSS', 'Node.js', 'MongoDB'],
-    codeUrl: '', 
-    liveUrl: ''
+    codeUrl: 'https://github.com/04sharadkumar/BachatBazaar', 
+    liveUrl: 'https://bachat-bazaar-eight.vercel.app/'
   },
   
 
