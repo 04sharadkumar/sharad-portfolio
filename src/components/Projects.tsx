@@ -4,6 +4,14 @@ import { ExternalLink, Github} from 'lucide-react';
 const Projects = () => {
   const projects = [
     {
+  title: 'Bajrang International Courier Platform',
+  description: 'Engineered a production-ready full-stack courier and logistics system with real-time shipment tracking, instant booking, secure authentication, and a comprehensive admin dashboard for managing operations efficiently.',
+  image: '/courier.png',
+  technologies: ['Next.js', 'Node.js', 'Express.js', 'MongoDB', 'Tailwind CSS', 'Context API', 'REST APIs'],
+  codeUrl: 'https://github.com/your-repo-link',
+  liveUrl: 'https://bajranginternational.vercel.app/'
+   },
+    {
       title: 'Music Promotion Website',
       description: 'Designed and built a modern, responsive frontend-only platform to help artists promote music',
       image: '/image0.png',
