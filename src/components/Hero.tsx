@@ -46,7 +46,7 @@ const Hero = () => {
                            transition-all duration-300 flex items-center justify-center gap-2">
             <Download size={20} className="group-hover:translate-y-1 transition-transform" />
             <a
-  href="/Sharadkumar_B.Tech4B.pdf"
+  href="/Sharadkumar_B.Tech2.pdf.pdf"
   download
   className="cursor-pointer text-cyan-400 hover:text-white transition-colors duration-300"
 >
