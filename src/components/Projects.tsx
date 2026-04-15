@@ -33,7 +33,7 @@ const Projects = () => {
     image: '/image2.png',
     technologies: ['React', 'Tailwind CSS', 'Node.js', 'MongoDB'],
     codeUrl: 'https://github.com/04sharadkumar/BachatBazaar', 
-    liveUrl: 'https://bachat-bazaar-eight.vercel.app/'
+    liveUrl: 'https://bachatbazaar.vercel.app/'
   },
   
 
