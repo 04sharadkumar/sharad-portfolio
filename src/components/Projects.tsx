@@ -6,7 +6,7 @@ const Projects = () => {
     {
   title: 'Bajrang International Courier Platform',
   description: 'Engineered a production-ready full-stack courier and logistics system with real-time shipment tracking, instant booking, secure authentication, and a comprehensive admin dashboard for managing operations efficiently.',
-  image: '/courier.png',
+  image: '/image.png',
   technologies: ['Next.js', 'Node.js', 'Express.js', 'MongoDB', 'Tailwind CSS', 'Context API', 'REST APIs'],
   codeUrl: 'https://github.com/your-repo-link',
   liveUrl: 'https://bajranginternational.vercel.app/'
