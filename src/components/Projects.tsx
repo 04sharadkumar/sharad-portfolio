@@ -9,7 +9,7 @@ const Projects = () => {
   image: '/image.png',
   technologies: ['Next.js', 'Node.js', 'Express.js', 'MongoDB', 'Tailwind CSS', 'Context API', 'REST APIs'],
   codeUrl: 'https://github.com/your-repo-link',
-  liveUrl: 'https://bajranginternational.vercel.app/'
+  liveUrl: 'https://bajranginternational.online/'
    },
     {
       title: 'Music Promotion Website',
